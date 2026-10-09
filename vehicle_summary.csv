@@ -1,0 +1,5 @@
+﻿"VehicleType","FuelType","VehicleCount","AverageVehicleValue","TotalVehicleValue"
+"Car","Petrol","11441","1112760.95326196","12731098066.27"
+"Car","CNG","4005","1111323.62667665","4450851124.84"
+"Car","Diesel","7279","1105306.40540047","8045525324.90999"
+"Car","Electric","2275","1110895.74123516","2527287811.31"
